@@ -73,6 +73,6 @@ Itens encostando no mínimo (<= 120% do min):
 ## 6) Estrutura do repositório
 ```
 README.md
-dynamic_programming_desafio1.py   
-SPRINT-3-DyPr.pdf                         
+SPRINT-3-DyPr.pdf   
+dynamic_programming_desafio1.py                        
 ```
