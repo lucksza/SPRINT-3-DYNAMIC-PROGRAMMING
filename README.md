@@ -28,7 +28,7 @@ oferece **busca sequencial e binária**, **ordena** por **quantidade** e **valid
 | Quick Sort | Média O(n log n), pior O(n²) | O(n log n) / O(n²) |
 | Totais por item | Uma passada nos eventos | O(m) (m = eventos) |
 
-## 4) Amostra de saída (gerada agora)
+## 4) Amostra de saída 
 ```
 == CONSUMO REGISTRADO (FILAS E PILHAS) ==
 Total de eventos: 98
