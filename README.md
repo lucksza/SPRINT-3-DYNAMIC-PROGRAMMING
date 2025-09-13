@@ -1,5 +1,7 @@
 ## Integrantes
-
+-Lucca Borges RM554608
+-Ruan Vieira RM557599
+-Rodrigo Carnevale RM558148
 
 ## 1) Objetivo
 Organizar e analisar o **consumo diário de insumos** (reagentes e descartáveis) para reduzir a
